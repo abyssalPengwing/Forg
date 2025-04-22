@@ -13,7 +13,7 @@ Forg scans a selected directory and automatically sorts files into categorized f
 
 ## How to use
 
-1. Run the `forg.py` script (or download the `.exe` from the [releases page](https://github.com/your-repo/Forg/releases))
+1. Run the `forg.py` script (or download the `.exe` from the [releases page](https://github.com/abyssalPengwing/Forg/releases/))
 2. Select the folder you want to organize when prompted
 3. Files will be automatically sorted into appropriate category folders
 
